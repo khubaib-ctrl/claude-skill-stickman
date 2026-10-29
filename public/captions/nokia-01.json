@@ -1,0 +1,129 @@
+[
+  {
+    "text": "At",
+    "startMs": 173,
+    "endMs": 395,
+    "timestampMs": 284,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 395,
+    "endMs": 617,
+    "timestampMs": 506,
+    "confidence": null
+  },
+  {
+    "text": " end",
+    "startMs": 617,
+    "endMs": 838,
+    "timestampMs": 727,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 838,
+    "endMs": 1060,
+    "timestampMs": 949,
+    "confidence": null
+  },
+  {
+    "text": " 2007,",
+    "startMs": 1060,
+    "endMs": 1281,
+    "timestampMs": 1170,
+    "confidence": null
+  },
+  {
+    "text": " four",
+    "startMs": 1281,
+    "endMs": 1503,
+    "timestampMs": 1392,
+    "confidence": null
+  },
+  {
+    "text": " out",
+    "startMs": 1503,
+    "endMs": 1724,
+    "timestampMs": 1614,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 1724,
+    "endMs": 1946,
+    "timestampMs": 1835,
+    "confidence": null
+  },
+  {
+    "text": " every",
+    "startMs": 1946,
+    "endMs": 2611,
+    "timestampMs": 2278,
+    "confidence": null
+  },
+  {
+    "text": " ten",
+    "startMs": 2611,
+    "endMs": 2832,
+    "timestampMs": 2721,
+    "confidence": null
+  },
+  {
+    "text": " phones",
+    "startMs": 2832,
+    "endMs": 3275,
+    "timestampMs": 3054,
+    "confidence": null
+  },
+  {
+    "text": " sold",
+    "startMs": 3275,
+    "endMs": 3497,
+    "timestampMs": 3386,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 3497,
+    "endMs": 3719,
+    "timestampMs": 3608,
+    "confidence": null
+  },
+  {
+    "text": " Earth",
+    "startMs": 3719,
+    "endMs": 3940,
+    "timestampMs": 3829,
+    "confidence": null
+  },
+  {
+    "text": " were",
+    "startMs": 3940,
+    "endMs": 4162,
+    "timestampMs": 4051,
+    "confidence": null
+  },
+  {
+    "text": " made",
+    "startMs": 4317,
+    "endMs": 4572,
+    "timestampMs": 4444,
+    "confidence": null
+  },
+  {
+    "text": " by",
+    "startMs": 4572,
+    "endMs": 4826,
+    "timestampMs": 4699,
+    "confidence": null
+  },
+  {
+    "text": " Nokia.",
+    "startMs": 4826,
+    "endMs": 5336,
+    "timestampMs": 5081,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

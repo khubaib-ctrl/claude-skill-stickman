@@ -1,0 +1,102 @@
+[
+  {
+    "text": "The",
+    "startMs": 194,
+    "endMs": 458,
+    "timestampMs": 326,
+    "confidence": null
+  },
+  {
+    "text": " slide",
+    "startMs": 458,
+    "endMs": 722,
+    "timestampMs": 590,
+    "confidence": null
+  },
+  {
+    "text": " kept",
+    "startMs": 722,
+    "endMs": 986,
+    "timestampMs": 854,
+    "confidence": null
+  },
+  {
+    "text": " going.",
+    "startMs": 986,
+    "endMs": 1250,
+    "timestampMs": 1118,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " By",
+    "startMs": 1697,
+    "endMs": 1915,
+    "timestampMs": 1806,
+    "confidence": null
+  },
+  {
+    "text": " late",
+    "startMs": 1915,
+    "endMs": 2133,
+    "timestampMs": 2024,
+    "confidence": null
+  },
+  {
+    "text": " 2011,",
+    "startMs": 2133,
+    "endMs": 2351,
+    "timestampMs": 2242,
+    "confidence": null
+  },
+  {
+    "text": " Nokia's",
+    "startMs": 2351,
+    "endMs": 2787,
+    "timestampMs": 2569,
+    "confidence": null
+  },
+  {
+    "text": " market",
+    "startMs": 2787,
+    "endMs": 3224,
+    "timestampMs": 3006,
+    "confidence": null
+  },
+  {
+    "text": " share",
+    "startMs": 3224,
+    "endMs": 3442,
+    "timestampMs": 3333,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 3442,
+    "endMs": 3660,
+    "timestampMs": 3551,
+    "confidence": null
+  },
+  {
+    "text": " below",
+    "startMs": 3660,
+    "endMs": 4096,
+    "timestampMs": 3878,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 4096,
+    "endMs": 4314,
+    "timestampMs": 4205,
+    "confidence": null
+  },
+  {
+    "text": " quarter.",
+    "startMs": 4314,
+    "endMs": 4750,
+    "timestampMs": 4532,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

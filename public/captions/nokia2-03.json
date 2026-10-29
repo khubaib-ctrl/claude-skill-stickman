@@ -1,0 +1,186 @@
+[
+  {
+    "text": "In",
+    "startMs": 205,
+    "endMs": 442,
+    "timestampMs": 323,
+    "confidence": null
+  },
+  {
+    "text": " 2007,",
+    "startMs": 442,
+    "endMs": 679,
+    "timestampMs": 560,
+    "confidence": null
+  },
+  {
+    "text": " Nokia",
+    "startMs": 679,
+    "endMs": 1153,
+    "timestampMs": 916,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 1153,
+    "endMs": 1390,
+    "timestampMs": 1272,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1390,
+    "endMs": 1628,
+    "timestampMs": 1509,
+    "confidence": null
+  },
+  {
+    "text": " biggest",
+    "startMs": 1628,
+    "endMs": 2102,
+    "timestampMs": 1865,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 2102,
+    "endMs": 2339,
+    "timestampMs": 2221,
+    "confidence": null
+  },
+  {
+    "text": " maker",
+    "startMs": 2339,
+    "endMs": 2813,
+    "timestampMs": 2576,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 2813,
+    "endMs": 3051,
+    "timestampMs": 2932,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3051,
+    "endMs": 3288,
+    "timestampMs": 3169,
+    "confidence": null
+  },
+  {
+    "text": " world.",
+    "startMs": 3288,
+    "endMs": 3525,
+    "timestampMs": 3406,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " So",
+    "startMs": 3962,
+    "endMs": 4159,
+    "timestampMs": 4061,
+    "confidence": null
+  },
+  {
+    "text": " when",
+    "startMs": 4159,
+    "endMs": 4356,
+    "timestampMs": 4257,
+    "confidence": null
+  },
+  {
+    "text": " Apple",
+    "startMs": 4356,
+    "endMs": 4553,
+    "timestampMs": 4454,
+    "confidence": null
+  },
+  {
+    "text": " showed",
+    "startMs": 4553,
+    "endMs": 4946,
+    "timestampMs": 4749,
+    "confidence": null
+  },
+  {
+    "text": " off",
+    "startMs": 4946,
+    "endMs": 5143,
+    "timestampMs": 5045,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 5143,
+    "endMs": 5340,
+    "timestampMs": 5241,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 5340,
+    "endMs": 5536,
+    "timestampMs": 5438,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 5536,
+    "endMs": 5733,
+    "timestampMs": 5635,
+    "confidence": null
+  },
+  {
+    "text": " almost",
+    "startMs": 5733,
+    "endMs": 6127,
+    "timestampMs": 5930,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 6127,
+    "endMs": 6324,
+    "timestampMs": 6225,
+    "confidence": null
+  },
+  {
+    "text": " buttons,",
+    "startMs": 6324,
+    "endMs": 6717,
+    "timestampMs": 6520,
+    "confidence": null
+  },
+  {
+    "text": " what",
+    "startMs": 6717,
+    "endMs": 6914,
+    "timestampMs": 6816,
+    "confidence": null
+  },
+  {
+    "text": " could",
+    "startMs": 6914,
+    "endMs": 7111,
+    "timestampMs": 7012,
+    "confidence": null
+  },
+  {
+    "text": " go",
+    "startMs": 7111,
+    "endMs": 7307,
+    "timestampMs": 7209,
+    "confidence": null
+  },
+  {
+    "text": " wrong?",
+    "startMs": 7307,
+    "endMs": 7504,
+    "timestampMs": 7406,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

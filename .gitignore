@@ -1,0 +1,23 @@
+node_modules
+out
+.DS_Store
+.venv
+
+# media (not tracked)
+public/audio/
+style-reference/
+voice semple/
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+*.ogg
+*.mp4
+*.mov
+*.webm
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp

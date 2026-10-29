@@ -1,0 +1,174 @@
+[
+  {
+    "text": "So",
+    "startMs": 209,
+    "endMs": 407,
+    "timestampMs": 308,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 407,
+    "endMs": 606,
+    "timestampMs": 507,
+    "confidence": null
+  },
+  {
+    "text": " September",
+    "startMs": 606,
+    "endMs": 1203,
+    "timestampMs": 905,
+    "confidence": null
+  },
+  {
+    "text": " 2013,",
+    "startMs": 1203,
+    "endMs": 1402,
+    "timestampMs": 1303,
+    "confidence": null
+  },
+  {
+    "text": " Nokia",
+    "startMs": 1402,
+    "endMs": 1800,
+    "timestampMs": 1601,
+    "confidence": null
+  },
+  {
+    "text": " agreed",
+    "startMs": 1800,
+    "endMs": 2198,
+    "timestampMs": 1999,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2198,
+    "endMs": 2397,
+    "timestampMs": 2297,
+    "confidence": null
+  },
+  {
+    "text": " sell",
+    "startMs": 2397,
+    "endMs": 2596,
+    "timestampMs": 2496,
+    "confidence": null
+  },
+  {
+    "text": " its",
+    "startMs": 2596,
+    "endMs": 2795,
+    "timestampMs": 2695,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 2795,
+    "endMs": 2994,
+    "timestampMs": 2894,
+    "confidence": null
+  },
+  {
+    "text": " business.",
+    "startMs": 2994,
+    "endMs": 3590,
+    "timestampMs": 3292,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 3882,
+    "endMs": 4108,
+    "timestampMs": 3995,
+    "confidence": null
+  },
+  {
+    "text": " buyer?",
+    "startMs": 4108,
+    "endMs": 4335,
+    "timestampMs": 4221,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Microsoft.",
+    "startMs": 4485,
+    "endMs": 5184,
+    "timestampMs": 4834,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 5406,
+    "endMs": 5676,
+    "timestampMs": 5541,
+    "confidence": null
+  },
+  {
+    "text": " price:",
+    "startMs": 5676,
+    "endMs": 5945,
+    "timestampMs": 5811,
+    "confidence": null
+  },
+  {
+    "text": " five",
+    "startMs": 6147,
+    "endMs": 6354,
+    "timestampMs": 6250,
+    "confidence": null
+  },
+  {
+    "text": " point",
+    "startMs": 6354,
+    "endMs": 6561,
+    "timestampMs": 6457,
+    "confidence": null
+  },
+  {
+    "text": " four",
+    "startMs": 6561,
+    "endMs": 6768,
+    "timestampMs": 6664,
+    "confidence": null
+  },
+  {
+    "text": " four",
+    "startMs": 6768,
+    "endMs": 6975,
+    "timestampMs": 6871,
+    "confidence": null
+  },
+  {
+    "text": " billion",
+    "startMs": 6975,
+    "endMs": 7388,
+    "timestampMs": 7181,
+    "confidence": null
+  },
+  {
+    "text": " euros,",
+    "startMs": 7388,
+    "endMs": 7802,
+    "timestampMs": 7595,
+    "confidence": null
+  },
+  {
+    "text": " including",
+    "startMs": 7802,
+    "endMs": 8423,
+    "timestampMs": 8112,
+    "confidence": null
+  },
+  {
+    "text": " patents.",
+    "startMs": 8423,
+    "endMs": 8837,
+    "timestampMs": 8630,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Android,",
+    "startMs": 202,
+    "endMs": 615,
+    "timestampMs": 408,
+    "confidence": null
+  },
+  {
+    "text": " he",
+    "startMs": 615,
+    "endMs": 821,
+    "timestampMs": 718,
+    "confidence": null
+  },
+  {
+    "text": " added,",
+    "startMs": 821,
+    "endMs": 1233,
+    "timestampMs": 1027,
+    "confidence": null
+  },
+  {
+    "text": " had",
+    "startMs": 1233,
+    "endMs": 1440,
+    "timestampMs": 1337,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 1440,
+    "endMs": 1646,
+    "timestampMs": 1543,
+    "confidence": null
+  },
+  {
+    "text": " taken",
+    "startMs": 1646,
+    "endMs": 2059,
+    "timestampMs": 1852,
+    "confidence": null
+  },
+  {
+    "text": " Nokia's",
+    "startMs": 2059,
+    "endMs": 2471,
+    "timestampMs": 2265,
+    "confidence": null
+  },
+  {
+    "text": " lead",
+    "startMs": 2471,
+    "endMs": 2678,
+    "timestampMs": 2574,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 2678,
+    "endMs": 2884,
+    "timestampMs": 2781,
+    "confidence": null
+  },
+  {
+    "text": " smartphone",
+    "startMs": 2884,
+    "endMs": 3297,
+    "timestampMs": 3090,
+    "confidence": null
+  },
+  {
+    "text": " sales.",
+    "startMs": 3297,
+    "endMs": 3709,
+    "timestampMs": 3503,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

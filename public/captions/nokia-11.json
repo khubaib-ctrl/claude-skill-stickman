@@ -1,0 +1,116 @@
+[
+  {
+    "text": "Nokia",
+    "startMs": 237,
+    "endMs": 630,
+    "timestampMs": 434,
+    "confidence": null
+  },
+  {
+    "text": " survived,",
+    "startMs": 630,
+    "endMs": 1219,
+    "timestampMs": 924,
+    "confidence": null
+  },
+  {
+    "text": " as",
+    "startMs": 1219,
+    "endMs": 1415,
+    "timestampMs": 1317,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 1707,
+    "endMs": 1901,
+    "timestampMs": 1804,
+    "confidence": null
+  },
+  {
+    "text": " company",
+    "startMs": 1901,
+    "endMs": 2484,
+    "timestampMs": 2192,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 2484,
+    "endMs": 2678,
+    "timestampMs": 2581,
+    "confidence": null
+  },
+  {
+    "text": " builds",
+    "startMs": 2678,
+    "endMs": 2872,
+    "timestampMs": 2775,
+    "confidence": null
+  },
+  {
+    "text": " mobile",
+    "startMs": 2872,
+    "endMs": 3260,
+    "timestampMs": 3066,
+    "confidence": null
+  },
+  {
+    "text": " networks.",
+    "startMs": 3260,
+    "endMs": 3649,
+    "timestampMs": 3454,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " It",
+    "startMs": 3649,
+    "endMs": 3843,
+    "timestampMs": 3746,
+    "confidence": null
+  },
+  {
+    "text": " just",
+    "startMs": 4127,
+    "endMs": 4313,
+    "timestampMs": 4220,
+    "confidence": null
+  },
+  {
+    "text": " doesn't",
+    "startMs": 4313,
+    "endMs": 4500,
+    "timestampMs": 4407,
+    "confidence": null
+  },
+  {
+    "text": " make",
+    "startMs": 4500,
+    "endMs": 4687,
+    "timestampMs": 4593,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4687,
+    "endMs": 4873,
+    "timestampMs": 4780,
+    "confidence": null
+  },
+  {
+    "text": " phones",
+    "startMs": 4873,
+    "endMs": 5247,
+    "timestampMs": 5060,
+    "confidence": null
+  },
+  {
+    "text": " anymore.",
+    "startMs": 5247,
+    "endMs": 5807,
+    "timestampMs": 5527,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

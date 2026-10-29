@@ -1,0 +1,122 @@
+[
+  {
+    "text": "In",
+    "startMs": 481,
+    "endMs": 707,
+    "timestampMs": 594,
+    "confidence": null
+  },
+  {
+    "text": " 2012,",
+    "startMs": 707,
+    "endMs": 934,
+    "timestampMs": 821,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 934,
+    "endMs": 1161,
+    "timestampMs": 1047,
+    "confidence": null
+  },
+  {
+    "text": " sold",
+    "startMs": 1161,
+    "endMs": 1387,
+    "timestampMs": 1274,
+    "confidence": null
+  },
+  {
+    "text": " almost",
+    "startMs": 1387,
+    "endMs": 1840,
+    "timestampMs": 1614,
+    "confidence": null
+  },
+  {
+    "text": " ninety",
+    "startMs": 1840,
+    "endMs": 2520,
+    "timestampMs": 2180,
+    "confidence": null
+  },
+  {
+    "text": " million",
+    "startMs": 2520,
+    "endMs": 2973,
+    "timestampMs": 2747,
+    "confidence": null
+  },
+  {
+    "text": " fewer",
+    "startMs": 2973,
+    "endMs": 3426,
+    "timestampMs": 3200,
+    "confidence": null
+  },
+  {
+    "text": " phones,",
+    "startMs": 3426,
+    "endMs": 3880,
+    "timestampMs": 3653,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 4082,
+    "endMs": 4286,
+    "timestampMs": 4184,
+    "confidence": null
+  },
+  {
+    "text": " lost",
+    "startMs": 4286,
+    "endMs": 4490,
+    "timestampMs": 4388,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4490,
+    "endMs": 4694,
+    "timestampMs": 4592,
+    "confidence": null
+  },
+  {
+    "text": " number",
+    "startMs": 4694,
+    "endMs": 5102,
+    "timestampMs": 4898,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 5102,
+    "endMs": 5306,
+    "timestampMs": 5204,
+    "confidence": null
+  },
+  {
+    "text": " spot",
+    "startMs": 5306,
+    "endMs": 5510,
+    "timestampMs": 5408,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 5510,
+    "endMs": 5714,
+    "timestampMs": 5612,
+    "confidence": null
+  },
+  {
+    "text": " Samsung.",
+    "startMs": 5714,
+    "endMs": 6122,
+    "timestampMs": 5918,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

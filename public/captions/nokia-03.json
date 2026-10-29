@@ -1,0 +1,96 @@
+[
+  {
+    "text": "That",
+    "startMs": 213,
+    "endMs": 437,
+    "timestampMs": 325,
+    "confidence": null
+  },
+  {
+    "text": " January,",
+    "startMs": 437,
+    "endMs": 1110,
+    "timestampMs": 773,
+    "confidence": null
+  },
+  {
+    "text": " Apple",
+    "startMs": 1110,
+    "endMs": 1334,
+    "timestampMs": 1222,
+    "confidence": null
+  },
+  {
+    "text": " had",
+    "startMs": 1334,
+    "endMs": 1558,
+    "timestampMs": 1446,
+    "confidence": null
+  },
+  {
+    "text": " introduced",
+    "startMs": 1558,
+    "endMs": 2455,
+    "timestampMs": 2006,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2455,
+    "endMs": 2679,
+    "timestampMs": 2567,
+    "confidence": null
+  },
+  {
+    "text": " iPhone.",
+    "startMs": 2679,
+    "endMs": 3127,
+    "timestampMs": 2903,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " One",
+    "startMs": 3127,
+    "endMs": 3351,
+    "timestampMs": 3239,
+    "confidence": null
+  },
+  {
+    "text": " big",
+    "startMs": 3351,
+    "endMs": 3575,
+    "timestampMs": 3463,
+    "confidence": null
+  },
+  {
+    "text": " touchscreen.",
+    "startMs": 3575,
+    "endMs": 4024,
+    "timestampMs": 3799,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Almost",
+    "startMs": 4024,
+    "endMs": 4472,
+    "timestampMs": 4248,
+    "confidence": null
+  },
+  {
+    "text": " no",
+    "startMs": 4472,
+    "endMs": 4696,
+    "timestampMs": 4584,
+    "confidence": null
+  },
+  {
+    "text": " buttons.",
+    "startMs": 4696,
+    "endMs": 5144,
+    "timestampMs": 4920,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,11 @@
+[
+  { "text": "Three.js", "startMs": 300, "endMs": 900, "timestampMs": 600, "confidence": 1 },
+  { "text": " renders", "startMs": 900, "endMs": 1400, "timestampMs": 1150, "confidence": 1 },
+  { "text": " the", "startMs": 1400, "endMs": 1600, "timestampMs": 1500, "confidence": 1 },
+  { "text": " 3D.", "startMs": 1600, "endMs": 2300, "timestampMs": 1950, "confidence": 1, "pageBreakAfter": true },
+  { "text": "Remotion", "startMs": 2800, "endMs": 3400, "timestampMs": 3100, "confidence": 1 },
+  { "text": " handles", "startMs": 3400, "endMs": 3900, "timestampMs": 3650, "confidence": 1 },
+  { "text": " captions", "startMs": 3900, "endMs": 4500, "timestampMs": 4200, "confidence": 1 },
+  { "text": " and", "startMs": 4500, "endMs": 4700, "timestampMs": 4600, "confidence": 1 },
+  { "text": " audio.", "startMs": 4700, "endMs": 5600, "timestampMs": 5150, "confidence": 1 }
+]

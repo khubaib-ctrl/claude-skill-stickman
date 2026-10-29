@@ -1,0 +1,109 @@
+[
+  {
+    "text": "Three",
+    "startMs": 203,
+    "endMs": 391,
+    "timestampMs": 297,
+    "confidence": null
+  },
+  {
+    "text": " days",
+    "startMs": 391,
+    "endMs": 579,
+    "timestampMs": 485,
+    "confidence": null
+  },
+  {
+    "text": " after",
+    "startMs": 579,
+    "endMs": 955,
+    "timestampMs": 767,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 955,
+    "endMs": 1143,
+    "timestampMs": 1049,
+    "confidence": null
+  },
+  {
+    "text": " memo,",
+    "startMs": 1143,
+    "endMs": 1519,
+    "timestampMs": 1331,
+    "confidence": null
+  },
+  {
+    "text": " Nokia",
+    "startMs": 1519,
+    "endMs": 1895,
+    "timestampMs": 1707,
+    "confidence": null
+  },
+  {
+    "text": " jumped.",
+    "startMs": 1895,
+    "endMs": 2272,
+    "timestampMs": 2084,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " It",
+    "startMs": 2515,
+    "endMs": 2710,
+    "timestampMs": 2612,
+    "confidence": null
+  },
+  {
+    "text": " bet",
+    "startMs": 2710,
+    "endMs": 2905,
+    "timestampMs": 2807,
+    "confidence": null
+  },
+  {
+    "text": " its",
+    "startMs": 2905,
+    "endMs": 3100,
+    "timestampMs": 3002,
+    "confidence": null
+  },
+  {
+    "text": " smartphones",
+    "startMs": 3100,
+    "endMs": 3685,
+    "timestampMs": 3392,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 3685,
+    "endMs": 3880,
+    "timestampMs": 3783,
+    "confidence": null
+  },
+  {
+    "text": " Microsoft's",
+    "startMs": 3880,
+    "endMs": 4465,
+    "timestampMs": 4173,
+    "confidence": null
+  },
+  {
+    "text": " Windows",
+    "startMs": 4465,
+    "endMs": 4855,
+    "timestampMs": 4660,
+    "confidence": null
+  },
+  {
+    "text": " Phone.",
+    "startMs": 4855,
+    "endMs": 5051,
+    "timestampMs": 4953,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

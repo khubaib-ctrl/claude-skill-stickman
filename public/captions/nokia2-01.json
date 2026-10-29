@@ -1,0 +1,136 @@
+[
+  {
+    "text": "At",
+    "startMs": 205,
+    "endMs": 416,
+    "timestampMs": 311,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 416,
+    "endMs": 627,
+    "timestampMs": 522,
+    "confidence": null
+  },
+  {
+    "text": " end",
+    "startMs": 627,
+    "endMs": 838,
+    "timestampMs": 733,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 838,
+    "endMs": 1049,
+    "timestampMs": 944,
+    "confidence": null
+  },
+  {
+    "text": " 2007,",
+    "startMs": 1049,
+    "endMs": 1260,
+    "timestampMs": 1155,
+    "confidence": null
+  },
+  {
+    "text": " four",
+    "startMs": 1260,
+    "endMs": 1471,
+    "timestampMs": 1365,
+    "confidence": null
+  },
+  {
+    "text": " out",
+    "startMs": 1471,
+    "endMs": 1682,
+    "timestampMs": 1576,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 1682,
+    "endMs": 1893,
+    "timestampMs": 1787,
+    "confidence": null
+  },
+  {
+    "text": " every",
+    "startMs": 1893,
+    "endMs": 2526,
+    "timestampMs": 2209,
+    "confidence": null
+  },
+  {
+    "text": " ten",
+    "startMs": 2526,
+    "endMs": 2737,
+    "timestampMs": 2631,
+    "confidence": null
+  },
+  {
+    "text": " phones",
+    "startMs": 2737,
+    "endMs": 3158,
+    "timestampMs": 2948,
+    "confidence": null
+  },
+  {
+    "text": " sold",
+    "startMs": 3158,
+    "endMs": 3369,
+    "timestampMs": 3264,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 3369,
+    "endMs": 3580,
+    "timestampMs": 3475,
+    "confidence": null
+  },
+  {
+    "text": " Earth",
+    "startMs": 3580,
+    "endMs": 3791,
+    "timestampMs": 3686,
+    "confidence": null
+  },
+  {
+    "text": " were",
+    "startMs": 3791,
+    "endMs": 4002,
+    "timestampMs": 3897,
+    "confidence": null
+  },
+  {
+    "text": " made",
+    "startMs": 4126,
+    "endMs": 4325,
+    "timestampMs": 4225,
+    "confidence": null
+  },
+  {
+    "text": " by",
+    "startMs": 4325,
+    "endMs": 4524,
+    "timestampMs": 4425,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 4524,
+    "endMs": 4724,
+    "timestampMs": 4624,
+    "confidence": null
+  },
+  {
+    "text": " company.",
+    "startMs": 4724,
+    "endMs": 5321,
+    "timestampMs": 5022,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

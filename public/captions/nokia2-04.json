@@ -1,0 +1,206 @@
+[
+  {
+    "text": "Four",
+    "startMs": 160,
+    "endMs": 393,
+    "timestampMs": 276,
+    "confidence": null
+  },
+  {
+    "text": " years",
+    "startMs": 393,
+    "endMs": 626,
+    "timestampMs": 509,
+    "confidence": null
+  },
+  {
+    "text": " later,",
+    "startMs": 626,
+    "endMs": 1093,
+    "timestampMs": 859,
+    "confidence": null
+  },
+  {
+    "text": " Nokia's",
+    "startMs": 1093,
+    "endMs": 1559,
+    "timestampMs": 1326,
+    "confidence": null
+  },
+  {
+    "text": " own",
+    "startMs": 1559,
+    "endMs": 1793,
+    "timestampMs": 1676,
+    "confidence": null
+  },
+  {
+    "text": " CEO",
+    "startMs": 1793,
+    "endMs": 2026,
+    "timestampMs": 1909,
+    "confidence": null
+  },
+  {
+    "text": " put",
+    "startMs": 2026,
+    "endMs": 2259,
+    "timestampMs": 2142,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 2259,
+    "endMs": 2492,
+    "timestampMs": 2376,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 2492,
+    "endMs": 2726,
+    "timestampMs": 2609,
+    "confidence": null
+  },
+  {
+    "text": " writing:",
+    "startMs": 2726,
+    "endMs": 3192,
+    "timestampMs": 2959,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 3596,
+    "endMs": 3812,
+    "timestampMs": 3704,
+    "confidence": null
+  },
+  {
+    "text": " first",
+    "startMs": 3812,
+    "endMs": 4028,
+    "timestampMs": 3920,
+    "confidence": null
+  },
+  {
+    "text": " iPhone",
+    "startMs": 4028,
+    "endMs": 4460,
+    "timestampMs": 4244,
+    "confidence": null
+  },
+  {
+    "text": " shipped",
+    "startMs": 4460,
+    "endMs": 4892,
+    "timestampMs": 4676,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 4892,
+    "endMs": 5108,
+    "timestampMs": 5000,
+    "confidence": null
+  },
+  {
+    "text": " 2007,",
+    "startMs": 5108,
+    "endMs": 5324,
+    "timestampMs": 5216,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 5324,
+    "endMs": 5540,
+    "timestampMs": 5432,
+    "confidence": null
+  },
+  {
+    "text": " we",
+    "startMs": 5540,
+    "endMs": 5756,
+    "timestampMs": 5648,
+    "confidence": null
+  },
+  {
+    "text": " still",
+    "startMs": 5756,
+    "endMs": 5972,
+    "timestampMs": 5864,
+    "confidence": null
+  },
+  {
+    "text": " don't",
+    "startMs": 6130,
+    "endMs": 6340,
+    "timestampMs": 6235,
+    "confidence": null
+  },
+  {
+    "text": " have",
+    "startMs": 6340,
+    "endMs": 6551,
+    "timestampMs": 6446,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 6551,
+    "endMs": 6761,
+    "timestampMs": 6656,
+    "confidence": null
+  },
+  {
+    "text": " product",
+    "startMs": 6761,
+    "endMs": 7182,
+    "timestampMs": 6972,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 7182,
+    "endMs": 7392,
+    "timestampMs": 7287,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 7392,
+    "endMs": 7603,
+    "timestampMs": 7498,
+    "confidence": null
+  },
+  {
+    "text": " close",
+    "startMs": 7603,
+    "endMs": 7813,
+    "timestampMs": 7708,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 7813,
+    "endMs": 8024,
+    "timestampMs": 7918,
+    "confidence": null
+  },
+  {
+    "text": " their",
+    "startMs": 8024,
+    "endMs": 8234,
+    "timestampMs": 8129,
+    "confidence": null
+  },
+  {
+    "text": " experience.",
+    "startMs": 8234,
+    "endMs": 8865,
+    "timestampMs": 8550,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

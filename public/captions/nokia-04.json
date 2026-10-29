@@ -1,0 +1,151 @@
+[
+  {
+    "text": "In",
+    "startMs": 466,
+    "endMs": 681,
+    "timestampMs": 573,
+    "confidence": null
+  },
+  {
+    "text": " February",
+    "startMs": 681,
+    "endMs": 1326,
+    "timestampMs": 1003,
+    "confidence": null
+  },
+  {
+    "text": " 2011,",
+    "startMs": 1326,
+    "endMs": 1541,
+    "timestampMs": 1433,
+    "confidence": null
+  },
+  {
+    "text": " Nokia's",
+    "startMs": 1541,
+    "endMs": 1971,
+    "timestampMs": 1756,
+    "confidence": null
+  },
+  {
+    "text": " new",
+    "startMs": 1971,
+    "endMs": 2186,
+    "timestampMs": 2078,
+    "confidence": null
+  },
+  {
+    "text": " CEO",
+    "startMs": 2186,
+    "endMs": 2401,
+    "timestampMs": 2293,
+    "confidence": null
+  },
+  {
+    "text": " wrote",
+    "startMs": 2401,
+    "endMs": 2616,
+    "timestampMs": 2508,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2616,
+    "endMs": 2831,
+    "timestampMs": 2723,
+    "confidence": null
+  },
+  {
+    "text": " memo",
+    "startMs": 2831,
+    "endMs": 3261,
+    "timestampMs": 3046,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 3261,
+    "endMs": 3476,
+    "timestampMs": 3368,
+    "confidence": null
+  },
+  {
+    "text": " employees.",
+    "startMs": 3476,
+    "endMs": 3906,
+    "timestampMs": 3691,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " The",
+    "startMs": 3906,
+    "endMs": 4121,
+    "timestampMs": 4013,
+    "confidence": null
+  },
+  {
+    "text": " company,",
+    "startMs": 4121,
+    "endMs": 4766,
+    "timestampMs": 4443,
+    "confidence": null
+  },
+  {
+    "text": " he",
+    "startMs": 4964,
+    "endMs": 5200,
+    "timestampMs": 5082,
+    "confidence": null
+  },
+  {
+    "text": " said,",
+    "startMs": 5200,
+    "endMs": 5435,
+    "timestampMs": 5317,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 5435,
+    "endMs": 5670,
+    "timestampMs": 5552,
+    "confidence": null
+  },
+  {
+    "text": " standing",
+    "startMs": 5670,
+    "endMs": 6140,
+    "timestampMs": 5905,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 6140,
+    "endMs": 6376,
+    "timestampMs": 6258,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 6376,
+    "endMs": 6611,
+    "timestampMs": 6493,
+    "confidence": null
+  },
+  {
+    "text": " burning",
+    "startMs": 6611,
+    "endMs": 7081,
+    "timestampMs": 6846,
+    "confidence": null
+  },
+  {
+    "text": " platform.",
+    "startMs": 7081,
+    "endMs": 7551,
+    "timestampMs": 7316,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

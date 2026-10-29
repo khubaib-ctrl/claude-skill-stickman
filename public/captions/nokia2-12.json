@@ -1,0 +1,124 @@
+[
+  {
+    "text": "Around",
+    "startMs": 195,
+    "endMs": 589,
+    "timestampMs": 392,
+    "confidence": null
+  },
+  {
+    "text": " thirty-two",
+    "startMs": 589,
+    "endMs": 1179,
+    "timestampMs": 884,
+    "confidence": null
+  },
+  {
+    "text": " thousand",
+    "startMs": 1179,
+    "endMs": 1572,
+    "timestampMs": 1375,
+    "confidence": null
+  },
+  {
+    "text": " employees",
+    "startMs": 1572,
+    "endMs": 1966,
+    "timestampMs": 1769,
+    "confidence": null
+  },
+  {
+    "text": " were",
+    "startMs": 1966,
+    "endMs": 2162,
+    "timestampMs": 2064,
+    "confidence": null
+  },
+  {
+    "text": " set",
+    "startMs": 2162,
+    "endMs": 2359,
+    "timestampMs": 2261,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2359,
+    "endMs": 2556,
+    "timestampMs": 2457,
+    "confidence": null
+  },
+  {
+    "text": " move",
+    "startMs": 2556,
+    "endMs": 2752,
+    "timestampMs": 2654,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2752,
+    "endMs": 2949,
+    "timestampMs": 2851,
+    "confidence": null
+  },
+  {
+    "text": " Microsoft.",
+    "startMs": 2949,
+    "endMs": 3539,
+    "timestampMs": 3244,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " So",
+    "startMs": 3842,
+    "endMs": 4062,
+    "timestampMs": 3952,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 4062,
+    "endMs": 4282,
+    "timestampMs": 4172,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4282,
+    "endMs": 4501,
+    "timestampMs": 4391,
+    "confidence": null
+  },
+  {
+    "text": " CEO.",
+    "startMs": 4501,
+    "endMs": 4721,
+    "timestampMs": 4611,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Back",
+    "startMs": 4721,
+    "endMs": 4940,
+    "timestampMs": 4830,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 5077,
+    "endMs": 5268,
+    "timestampMs": 5173,
+    "confidence": null
+  },
+  {
+    "text": " Microsoft.",
+    "startMs": 5268,
+    "endMs": 5840,
+    "timestampMs": 5554,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

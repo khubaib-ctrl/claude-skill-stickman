@@ -1,0 +1,116 @@
+[
+  {
+    "text": "The",
+    "startMs": 142,
+    "endMs": 371,
+    "timestampMs": 257,
+    "confidence": null
+  },
+  {
+    "text": " numbers",
+    "startMs": 371,
+    "endMs": 830,
+    "timestampMs": 601,
+    "confidence": null
+  },
+  {
+    "text": " kept",
+    "startMs": 830,
+    "endMs": 1060,
+    "timestampMs": 945,
+    "confidence": null
+  },
+  {
+    "text": " falling.",
+    "startMs": 1060,
+    "endMs": 1518,
+    "timestampMs": 1289,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " By",
+    "startMs": 1809,
+    "endMs": 2062,
+    "timestampMs": 1936,
+    "confidence": null
+  },
+  {
+    "text": " late",
+    "startMs": 2062,
+    "endMs": 2315,
+    "timestampMs": 2188,
+    "confidence": null
+  },
+  {
+    "text": " 2011,",
+    "startMs": 2315,
+    "endMs": 2568,
+    "timestampMs": 2441,
+    "confidence": null
+  },
+  {
+    "text": " Nokia's",
+    "startMs": 2568,
+    "endMs": 3073,
+    "timestampMs": 2820,
+    "confidence": null
+  },
+  {
+    "text": " share",
+    "startMs": 3216,
+    "endMs": 3460,
+    "timestampMs": 3338,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 3460,
+    "endMs": 3703,
+    "timestampMs": 3582,
+    "confidence": null
+  },
+  {
+    "text": " phones",
+    "startMs": 3703,
+    "endMs": 4191,
+    "timestampMs": 3947,
+    "confidence": null
+  },
+  {
+    "text": " sold",
+    "startMs": 4191,
+    "endMs": 4435,
+    "timestampMs": 4313,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 4435,
+    "endMs": 4678,
+    "timestampMs": 4556,
+    "confidence": null
+  },
+  {
+    "text": " below",
+    "startMs": 4678,
+    "endMs": 5166,
+    "timestampMs": 4922,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 5166,
+    "endMs": 5409,
+    "timestampMs": 5288,
+    "confidence": null
+  },
+  {
+    "text": " quarter.",
+    "startMs": 5409,
+    "endMs": 5897,
+    "timestampMs": 5653,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

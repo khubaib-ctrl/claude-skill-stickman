@@ -1,0 +1,95 @@
+[
+  {
+    "text": "Around",
+    "startMs": 274,
+    "endMs": 721,
+    "timestampMs": 497,
+    "confidence": null
+  },
+  {
+    "text": " thirty-two",
+    "startMs": 721,
+    "endMs": 1391,
+    "timestampMs": 1056,
+    "confidence": null
+  },
+  {
+    "text": " thousand",
+    "startMs": 1391,
+    "endMs": 1838,
+    "timestampMs": 1614,
+    "confidence": null
+  },
+  {
+    "text": " employees",
+    "startMs": 1838,
+    "endMs": 2285,
+    "timestampMs": 2061,
+    "confidence": null
+  },
+  {
+    "text": " were",
+    "startMs": 2285,
+    "endMs": 2508,
+    "timestampMs": 2396,
+    "confidence": null
+  },
+  {
+    "text": " set",
+    "startMs": 2508,
+    "endMs": 2732,
+    "timestampMs": 2620,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2732,
+    "endMs": 2955,
+    "timestampMs": 2843,
+    "confidence": null
+  },
+  {
+    "text": " move",
+    "startMs": 2955,
+    "endMs": 3178,
+    "timestampMs": 3067,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 3178,
+    "endMs": 3402,
+    "timestampMs": 3290,
+    "confidence": null
+  },
+  {
+    "text": " Microsoft.",
+    "startMs": 3402,
+    "endMs": 4072,
+    "timestampMs": 3737,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " Including",
+    "startMs": 4072,
+    "endMs": 4743,
+    "timestampMs": 4407,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4743,
+    "endMs": 4966,
+    "timestampMs": 4854,
+    "confidence": null
+  },
+  {
+    "text": " CEO.",
+    "startMs": 4966,
+    "endMs": 5189,
+    "timestampMs": 5078,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

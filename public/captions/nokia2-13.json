@@ -1,0 +1,185 @@
+[
+  {
+    "text": "Less",
+    "startMs": 206,
+    "endMs": 398,
+    "timestampMs": 302,
+    "confidence": null
+  },
+  {
+    "text": " than",
+    "startMs": 398,
+    "endMs": 591,
+    "timestampMs": 494,
+    "confidence": null
+  },
+  {
+    "text": " two",
+    "startMs": 591,
+    "endMs": 783,
+    "timestampMs": 687,
+    "confidence": null
+  },
+  {
+    "text": " years",
+    "startMs": 783,
+    "endMs": 975,
+    "timestampMs": 879,
+    "confidence": null
+  },
+  {
+    "text": " later,",
+    "startMs": 975,
+    "endMs": 1360,
+    "timestampMs": 1167,
+    "confidence": null
+  },
+  {
+    "text": " Microsoft",
+    "startMs": 1360,
+    "endMs": 1937,
+    "timestampMs": 1648,
+    "confidence": null
+  },
+  {
+    "text": " took",
+    "startMs": 1937,
+    "endMs": 2129,
+    "timestampMs": 2033,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2129,
+    "endMs": 2321,
+    "timestampMs": 2225,
+    "confidence": null
+  },
+  {
+    "text": " charge",
+    "startMs": 2321,
+    "endMs": 2513,
+    "timestampMs": 2417,
+    "confidence": null
+  },
+  {
+    "text": " of",
+    "startMs": 2513,
+    "endMs": 2706,
+    "timestampMs": 2610,
+    "confidence": null
+  },
+  {
+    "text": " seven",
+    "startMs": 2706,
+    "endMs": 3090,
+    "timestampMs": 2898,
+    "confidence": null
+  },
+  {
+    "text": " point",
+    "startMs": 3090,
+    "endMs": 3283,
+    "timestampMs": 3187,
+    "confidence": null
+  },
+  {
+    "text": " six",
+    "startMs": 3283,
+    "endMs": 3475,
+    "timestampMs": 3379,
+    "confidence": null
+  },
+  {
+    "text": " billion",
+    "startMs": 3475,
+    "endMs": 3860,
+    "timestampMs": 3667,
+    "confidence": null
+  },
+  {
+    "text": " dollars",
+    "startMs": 3860,
+    "endMs": 4244,
+    "timestampMs": 4052,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 4244,
+    "endMs": 4436,
+    "timestampMs": 4340,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4436,
+    "endMs": 4629,
+    "timestampMs": 4533,
+    "confidence": null
+  },
+  {
+    "text": " Nokia",
+    "startMs": 4629,
+    "endMs": 5013,
+    "timestampMs": 4821,
+    "confidence": null
+  },
+  {
+    "text": " business,",
+    "startMs": 5013,
+    "endMs": 5590,
+    "timestampMs": 5302,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 5845,
+    "endMs": 6051,
+    "timestampMs": 5948,
+    "confidence": null
+  },
+  {
+    "text": " cut",
+    "startMs": 6051,
+    "endMs": 6257,
+    "timestampMs": 6154,
+    "confidence": null
+  },
+  {
+    "text": " up",
+    "startMs": 6257,
+    "endMs": 6463,
+    "timestampMs": 6360,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 6463,
+    "endMs": 6669,
+    "timestampMs": 6566,
+    "confidence": null
+  },
+  {
+    "text": " seventy-eight",
+    "startMs": 6669,
+    "endMs": 7287,
+    "timestampMs": 6978,
+    "confidence": null
+  },
+  {
+    "text": " hundred",
+    "startMs": 7287,
+    "endMs": 7699,
+    "timestampMs": 7493,
+    "confidence": null
+  },
+  {
+    "text": " jobs.",
+    "startMs": 7699,
+    "endMs": 7905,
+    "timestampMs": 7802,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

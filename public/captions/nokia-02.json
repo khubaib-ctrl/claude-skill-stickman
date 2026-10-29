@@ -1,0 +1,66 @@
+[
+  {
+    "text": "Nokia",
+    "startMs": 478,
+    "endMs": 861,
+    "timestampMs": 670,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 861,
+    "endMs": 1053,
+    "timestampMs": 957,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1053,
+    "endMs": 1245,
+    "timestampMs": 1149,
+    "confidence": null
+  },
+  {
+    "text": " biggest",
+    "startMs": 1245,
+    "endMs": 1629,
+    "timestampMs": 1437,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 1629,
+    "endMs": 1820,
+    "timestampMs": 1724,
+    "confidence": null
+  },
+  {
+    "text": " maker",
+    "startMs": 1820,
+    "endMs": 2204,
+    "timestampMs": 2012,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 2204,
+    "endMs": 2396,
+    "timestampMs": 2300,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 2396,
+    "endMs": 2588,
+    "timestampMs": 2492,
+    "confidence": null
+  },
+  {
+    "text": " world.",
+    "startMs": 2588,
+    "endMs": 2779,
+    "timestampMs": 2683,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,221 @@
+[
+  {
+    "text": "The",
+    "startMs": 208,
+    "endMs": 364,
+    "timestampMs": 286,
+    "confidence": null
+  },
+  {
+    "text": " memo",
+    "startMs": 364,
+    "endMs": 675,
+    "timestampMs": 519,
+    "confidence": null
+  },
+  {
+    "text": " opened",
+    "startMs": 675,
+    "endMs": 1142,
+    "timestampMs": 909,
+    "confidence": null
+  },
+  {
+    "text": " with",
+    "startMs": 1142,
+    "endMs": 1298,
+    "timestampMs": 1220,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 1298,
+    "endMs": 1454,
+    "timestampMs": 1376,
+    "confidence": null
+  },
+  {
+    "text": " story",
+    "startMs": 1454,
+    "endMs": 1765,
+    "timestampMs": 1610,
+    "confidence": null
+  },
+  {
+    "text": " about",
+    "startMs": 1765,
+    "endMs": 2077,
+    "timestampMs": 1921,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2077,
+    "endMs": 2233,
+    "timestampMs": 2155,
+    "confidence": null
+  },
+  {
+    "text": " man",
+    "startMs": 2233,
+    "endMs": 2388,
+    "timestampMs": 2310,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 2388,
+    "endMs": 2544,
+    "timestampMs": 2466,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2544,
+    "endMs": 2700,
+    "timestampMs": 2622,
+    "confidence": null
+  },
+  {
+    "text": " burning",
+    "startMs": 2700,
+    "endMs": 3011,
+    "timestampMs": 2855,
+    "confidence": null
+  },
+  {
+    "text": " oil",
+    "startMs": 3011,
+    "endMs": 3167,
+    "timestampMs": 3089,
+    "confidence": null
+  },
+  {
+    "text": " platform,",
+    "startMs": 3167,
+    "endMs": 3478,
+    "timestampMs": 3323,
+    "confidence": null
+  },
+  {
+    "text": " who",
+    "startMs": 3675,
+    "endMs": 3857,
+    "timestampMs": 3766,
+    "confidence": null
+  },
+  {
+    "text": " jumps",
+    "startMs": 3857,
+    "endMs": 4038,
+    "timestampMs": 3948,
+    "confidence": null
+  },
+  {
+    "text": " into",
+    "startMs": 4038,
+    "endMs": 4402,
+    "timestampMs": 4220,
+    "confidence": null
+  },
+  {
+    "text": " icy",
+    "startMs": 4402,
+    "endMs": 4765,
+    "timestampMs": 4584,
+    "confidence": null
+  },
+  {
+    "text": " water",
+    "startMs": 4765,
+    "endMs": 5129,
+    "timestampMs": 4947,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 5129,
+    "endMs": 5310,
+    "timestampMs": 5219,
+    "confidence": null
+  },
+  {
+    "text": " survive.",
+    "startMs": 5310,
+    "endMs": 5674,
+    "timestampMs": 5492,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " He",
+    "startMs": 6100,
+    "endMs": 6276,
+    "timestampMs": 6188,
+    "confidence": null
+  },
+  {
+    "text": " wrote",
+    "startMs": 6276,
+    "endMs": 6452,
+    "timestampMs": 6364,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 6452,
+    "endMs": 6629,
+    "timestampMs": 6540,
+    "confidence": null
+  },
+  {
+    "text": " Nokia",
+    "startMs": 6629,
+    "endMs": 6981,
+    "timestampMs": 6805,
+    "confidence": null
+  },
+  {
+    "text": " was",
+    "startMs": 6981,
+    "endMs": 7157,
+    "timestampMs": 7069,
+    "confidence": null
+  },
+  {
+    "text": " standing",
+    "startMs": 7157,
+    "endMs": 7510,
+    "timestampMs": 7334,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 7510,
+    "endMs": 7686,
+    "timestampMs": 7598,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 7686,
+    "endMs": 7862,
+    "timestampMs": 7774,
+    "confidence": null
+  },
+  {
+    "text": " burning",
+    "startMs": 7862,
+    "endMs": 8215,
+    "timestampMs": 8039,
+    "confidence": null
+  },
+  {
+    "text": " platform.",
+    "startMs": 8215,
+    "endMs": 8567,
+    "timestampMs": 8391,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "text": "In",
+    "startMs": 285,
+    "endMs": 532,
+    "timestampMs": 409,
+    "confidence": null
+  },
+  {
+    "text": " September",
+    "startMs": 532,
+    "endMs": 1274,
+    "timestampMs": 903,
+    "confidence": null
+  },
+  {
+    "text": " 2013,",
+    "startMs": 1274,
+    "endMs": 1521,
+    "timestampMs": 1397,
+    "confidence": null
+  },
+  {
+    "text": " Nokia",
+    "startMs": 1521,
+    "endMs": 2015,
+    "timestampMs": 1768,
+    "confidence": null
+  },
+  {
+    "text": " agreed",
+    "startMs": 2259,
+    "endMs": 2716,
+    "timestampMs": 2488,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 2716,
+    "endMs": 2945,
+    "timestampMs": 2831,
+    "confidence": null
+  },
+  {
+    "text": " sell",
+    "startMs": 2945,
+    "endMs": 3174,
+    "timestampMs": 3059,
+    "confidence": null
+  },
+  {
+    "text": " its",
+    "startMs": 3174,
+    "endMs": 3403,
+    "timestampMs": 3288,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 3403,
+    "endMs": 3631,
+    "timestampMs": 3517,
+    "confidence": null
+  },
+  {
+    "text": " business",
+    "startMs": 3631,
+    "endMs": 4318,
+    "timestampMs": 3974,
+    "confidence": null
+  },
+  {
+    "text": " to",
+    "startMs": 4318,
+    "endMs": 4546,
+    "timestampMs": 4432,
+    "confidence": null
+  },
+  {
+    "text": " Microsoft,",
+    "startMs": 4546,
+    "endMs": 5233,
+    "timestampMs": 4889,
+    "confidence": null
+  },
+  {
+    "text": " in",
+    "startMs": 5233,
+    "endMs": 5461,
+    "timestampMs": 5347,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 5461,
+    "endMs": 5690,
+    "timestampMs": 5576,
+    "confidence": null
+  },
+  {
+    "text": " deal",
+    "startMs": 5690,
+    "endMs": 5919,
+    "timestampMs": 5804,
+    "confidence": null
+  },
+  {
+    "text": " worth",
+    "startMs": 5919,
+    "endMs": 6147,
+    "timestampMs": 6033,
+    "confidence": null
+  },
+  {
+    "text": " five",
+    "startMs": 6147,
+    "endMs": 6376,
+    "timestampMs": 6262,
+    "confidence": null
+  },
+  {
+    "text": " point",
+    "startMs": 6376,
+    "endMs": 6605,
+    "timestampMs": 6491,
+    "confidence": null
+  },
+  {
+    "text": " four",
+    "startMs": 6605,
+    "endMs": 6834,
+    "timestampMs": 6719,
+    "confidence": null
+  },
+  {
+    "text": " four",
+    "startMs": 6834,
+    "endMs": 7062,
+    "timestampMs": 6948,
+    "confidence": null
+  },
+  {
+    "text": " billion",
+    "startMs": 7062,
+    "endMs": 7520,
+    "timestampMs": 7291,
+    "confidence": null
+  },
+  {
+    "text": " euros.",
+    "startMs": 7520,
+    "endMs": 7977,
+    "timestampMs": 7749,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

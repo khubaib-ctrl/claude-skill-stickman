@@ -1,0 +1,95 @@
+[
+  {
+    "text": "The",
+    "startMs": 204,
+    "endMs": 405,
+    "timestampMs": 304,
+    "confidence": null
+  },
+  {
+    "text": " CEO,",
+    "startMs": 405,
+    "endMs": 606,
+    "timestampMs": 505,
+    "confidence": null
+  },
+  {
+    "text": " by",
+    "startMs": 606,
+    "endMs": 806,
+    "timestampMs": 706,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 806,
+    "endMs": 1007,
+    "timestampMs": 907,
+    "confidence": null
+  },
+  {
+    "text": " way,",
+    "startMs": 1007,
+    "endMs": 1208,
+    "timestampMs": 1108,
+    "confidence": null
+  },
+  {
+    "text": " had",
+    "startMs": 1208,
+    "endMs": 1409,
+    "timestampMs": 1308,
+    "confidence": null
+  },
+  {
+    "text": " joined",
+    "startMs": 1409,
+    "endMs": 1810,
+    "timestampMs": 1610,
+    "confidence": null
+  },
+  {
+    "text": " Nokia",
+    "startMs": 1810,
+    "endMs": 2212,
+    "timestampMs": 2011,
+    "confidence": null
+  },
+  {
+    "text": " five",
+    "startMs": 2212,
+    "endMs": 2413,
+    "timestampMs": 2312,
+    "confidence": null
+  },
+  {
+    "text": " months",
+    "startMs": 2413,
+    "endMs": 2614,
+    "timestampMs": 2513,
+    "confidence": null
+  },
+  {
+    "text": " earlier.",
+    "startMs": 2614,
+    "endMs": 3015,
+    "timestampMs": 2814,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " From",
+    "startMs": 3015,
+    "endMs": 3216,
+    "timestampMs": 3116,
+    "confidence": null
+  },
+  {
+    "text": " Microsoft.",
+    "startMs": 3216,
+    "endMs": 3818,
+    "timestampMs": 3517,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "text": "In",
+    "startMs": 200,
+    "endMs": 410,
+    "timestampMs": 305,
+    "confidence": null
+  },
+  {
+    "text": " 2012,",
+    "startMs": 410,
+    "endMs": 620,
+    "timestampMs": 515,
+    "confidence": null
+  },
+  {
+    "text": " it",
+    "startMs": 620,
+    "endMs": 829,
+    "timestampMs": 724,
+    "confidence": null
+  },
+  {
+    "text": " sold",
+    "startMs": 829,
+    "endMs": 1039,
+    "timestampMs": 934,
+    "confidence": null
+  },
+  {
+    "text": " almost",
+    "startMs": 1039,
+    "endMs": 1459,
+    "timestampMs": 1249,
+    "confidence": null
+  },
+  {
+    "text": " ninety",
+    "startMs": 1459,
+    "endMs": 2088,
+    "timestampMs": 1773,
+    "confidence": null
+  },
+  {
+    "text": " million",
+    "startMs": 2088,
+    "endMs": 2507,
+    "timestampMs": 2298,
+    "confidence": null
+  },
+  {
+    "text": " fewer",
+    "startMs": 2507,
+    "endMs": 2927,
+    "timestampMs": 2717,
+    "confidence": null
+  },
+  {
+    "text": " phones,",
+    "startMs": 2927,
+    "endMs": 3347,
+    "timestampMs": 3137,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 3347,
+    "endMs": 3556,
+    "timestampMs": 3451,
+    "confidence": null
+  },
+  {
+    "text": " Samsung",
+    "startMs": 3556,
+    "endMs": 3976,
+    "timestampMs": 3766,
+    "confidence": null
+  },
+  {
+    "text": " took",
+    "startMs": 3976,
+    "endMs": 4186,
+    "timestampMs": 4081,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 4186,
+    "endMs": 4395,
+    "timestampMs": 4291,
+    "confidence": null
+  },
+  {
+    "text": " number",
+    "startMs": 4395,
+    "endMs": 4815,
+    "timestampMs": 4605,
+    "confidence": null
+  },
+  {
+    "text": " one",
+    "startMs": 4815,
+    "endMs": 5025,
+    "timestampMs": 4920,
+    "confidence": null
+  },
+  {
+    "text": " spot.",
+    "startMs": 5025,
+    "endMs": 5235,
+    "timestampMs": 5130,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "text": "Then",
+    "startMs": 387,
+    "endMs": 572,
+    "timestampMs": 479,
+    "confidence": null
+  },
+  {
+    "text": " he",
+    "startMs": 572,
+    "endMs": 757,
+    "timestampMs": 664,
+    "confidence": null
+  },
+  {
+    "text": " stepped",
+    "startMs": 757,
+    "endMs": 1127,
+    "timestampMs": 942,
+    "confidence": null
+  },
+  {
+    "text": " onto",
+    "startMs": 1127,
+    "endMs": 1497,
+    "timestampMs": 1312,
+    "confidence": null
+  },
+  {
+    "text": " the",
+    "startMs": 1497,
+    "endMs": 1682,
+    "timestampMs": 1589,
+    "confidence": null
+  },
+  {
+    "text": " stage,",
+    "startMs": 1682,
+    "endMs": 1867,
+    "timestampMs": 1774,
+    "confidence": null
+  },
+  {
+    "text": " and",
+    "startMs": 1867,
+    "endMs": 2052,
+    "timestampMs": 1959,
+    "confidence": null
+  },
+  {
+    "text": " announced",
+    "startMs": 2205,
+    "endMs": 2740,
+    "timestampMs": 2473,
+    "confidence": null
+  },
+  {
+    "text": " a",
+    "startMs": 2740,
+    "endMs": 2918,
+    "timestampMs": 2829,
+    "confidence": null
+  },
+  {
+    "text": " product",
+    "startMs": 2918,
+    "endMs": 3275,
+    "timestampMs": 3097,
+    "confidence": null
+  },
+  {
+    "text": " nobody",
+    "startMs": 3275,
+    "endMs": 3810,
+    "timestampMs": 3542,
+    "confidence": null
+  },
+  {
+    "text": " asked",
+    "startMs": 3810,
+    "endMs": 4166,
+    "timestampMs": 3988,
+    "confidence": null
+  },
+  {
+    "text": " for.",
+    "startMs": 4166,
+    "endMs": 4345,
+    "timestampMs": 4255,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

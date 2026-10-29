@@ -1,0 +1,123 @@
+[
+  {
+    "text": "Less",
+    "startMs": 204,
+    "endMs": 411,
+    "timestampMs": 307,
+    "confidence": null
+  },
+  {
+    "text": " than",
+    "startMs": 411,
+    "endMs": 619,
+    "timestampMs": 515,
+    "confidence": null
+  },
+  {
+    "text": " six",
+    "startMs": 619,
+    "endMs": 827,
+    "timestampMs": 723,
+    "confidence": null
+  },
+  {
+    "text": " years",
+    "startMs": 827,
+    "endMs": 1034,
+    "timestampMs": 930,
+    "confidence": null
+  },
+  {
+    "text": " later,",
+    "startMs": 1034,
+    "endMs": 1450,
+    "timestampMs": 1242,
+    "confidence": null
+  },
+  {
+    "text": " that",
+    "startMs": 1450,
+    "endMs": 1657,
+    "timestampMs": 1553,
+    "confidence": null
+  },
+  {
+    "text": " company",
+    "startMs": 1657,
+    "endMs": 2280,
+    "timestampMs": 1969,
+    "confidence": null
+  },
+  {
+    "text": " sold",
+    "startMs": 2280,
+    "endMs": 2488,
+    "timestampMs": 2384,
+    "confidence": null
+  },
+  {
+    "text": " off",
+    "startMs": 2488,
+    "endMs": 2696,
+    "timestampMs": 2592,
+    "confidence": null
+  },
+  {
+    "text": " its",
+    "startMs": 2696,
+    "endMs": 2903,
+    "timestampMs": 2799,
+    "confidence": null
+  },
+  {
+    "text": " phone",
+    "startMs": 2903,
+    "endMs": 3111,
+    "timestampMs": 3007,
+    "confidence": null
+  },
+  {
+    "text": " business.",
+    "startMs": 3111,
+    "endMs": 3734,
+    "timestampMs": 3423,
+    "confidence": null,
+    "pageBreakAfter": true
+  },
+  {
+    "text": " This",
+    "startMs": 3734,
+    "endMs": 3942,
+    "timestampMs": 3838,
+    "confidence": null
+  },
+  {
+    "text": " is",
+    "startMs": 3942,
+    "endMs": 4149,
+    "timestampMs": 4046,
+    "confidence": null
+  },
+  {
+    "text": " how",
+    "startMs": 4149,
+    "endMs": 4357,
+    "timestampMs": 4253,
+    "confidence": null
+  },
+  {
+    "text": " Nokia",
+    "startMs": 4357,
+    "endMs": 4772,
+    "timestampMs": 4565,
+    "confidence": null
+  },
+  {
+    "text": " lost.",
+    "startMs": 4772,
+    "endMs": 4980,
+    "timestampMs": 4876,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]

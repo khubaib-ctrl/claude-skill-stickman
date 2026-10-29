@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Three",
+    "startMs": 303,
+    "endMs": 525,
+    "timestampMs": 414,
+    "confidence": null
+  },
+  {
+    "text": " days",
+    "startMs": 525,
+    "endMs": 746,
+    "timestampMs": 635,
+    "confidence": null
+  },
+  {
+    "text": " later,",
+    "startMs": 746,
+    "endMs": 1189,
+    "timestampMs": 967,
+    "confidence": null
+  },
+  {
+    "text": " Nokia",
+    "startMs": 1317,
+    "endMs": 1761,
+    "timestampMs": 1539,
+    "confidence": null
+  },
+  {
+    "text": " bet",
+    "startMs": 1761,
+    "endMs": 1984,
+    "timestampMs": 1873,
+    "confidence": null
+  },
+  {
+    "text": " its",
+    "startMs": 1984,
+    "endMs": 2206,
+    "timestampMs": 2095,
+    "confidence": null
+  },
+  {
+    "text": " smartphones",
+    "startMs": 2206,
+    "endMs": 2873,
+    "timestampMs": 2540,
+    "confidence": null
+  },
+  {
+    "text": " on",
+    "startMs": 2873,
+    "endMs": 3096,
+    "timestampMs": 2985,
+    "confidence": null
+  },
+  {
+    "text": " Microsoft's",
+    "startMs": 3096,
+    "endMs": 3763,
+    "timestampMs": 3429,
+    "confidence": null
+  },
+  {
+    "text": " Windows",
+    "startMs": 3763,
+    "endMs": 4208,
+    "timestampMs": 3985,
+    "confidence": null
+  },
+  {
+    "text": " Phone.",
+    "startMs": 4208,
+    "endMs": 4430,
+    "timestampMs": 4319,
+    "confidence": null,
+    "pageBreakAfter": true
+  }
+]
